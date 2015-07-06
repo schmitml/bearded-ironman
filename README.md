@@ -1,13 +1,17 @@
 # bearded-ironman
 
-To Do: \n
-- [ ] Step 1 -Find a project to work on \n
-- [ ] Step 2 -??? \n
-- [ ] Step 3 -Profit \n
+To Do: 
+- [ ] Step 1 -Find a project to work on
+
+- [ ] Step 2 -??? 
+
+- [ ] Step 3 -Profit
 
 
-Repository Owners: \n
-	- Marc Schmitt \n
-	- Presely Kode \n
+Repository Owners:
+
+	- Marc Schmitt 
+
+	- Presely Kode 
 
 Created 6/7/2015
