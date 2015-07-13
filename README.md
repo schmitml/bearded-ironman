@@ -8,13 +8,13 @@ Real To Do:
 - [ ] Step 3 -Presley does some work
 
 
-~~To Do: 
-- [ ] Step 1 -Find a project to work on
+~~To Do:~~ 
+- [ ] ~~Step 1 -Find a project to work on~~
 
-- [ ] Step 2 -??? 
+- [ ] ~~Step 2 -???~~
 
-- [ ] Step 3 -Profit
-~~
+- [ ] ~~Step 3 -Profit~~
+
 
 Repository Owners:
 
